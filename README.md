@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandra E.M</h1>
 <h3 align="center">🎓 Aspiring Data Scientist | AI/ML Intern</h3>
 
-- 🌱 I’m currently learning **Deep Learning (Transformers, BiLSTM)**
+- 🌱 I’m currently learning **Deep Learning (Transformers, BiLSTM),NLP ,and Time-Series Modelling**
 
-- 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow, Streamlit**
+- 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow,EDA,Streamlit**
 
 - 📫 How to reach me **sandraem849@gmail.com**
 

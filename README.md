@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sandra E.M</h1>
-<h3 align="center">🎓 Aspiring Data Scientist | AI/ML Intern</h3>
+<h3 align="center"><h3 align="center">🎓 Data Science Enthusiast | AI & ML Learner | Turning Data into Insights</h3> 
+<p align="center"> I have completed a Data Science program specialized in Artificial Intelligence and Machine Learning. I am passionate about data analysis, machine learning, and building smart solutions that solve real-world problems. </p></h3>
 
-- 🌱 I’m currently learning **Deep Learning (Transformers, BiLSTM),NLP ,and Time-Series Modelling**
+- 🔭 I’m currently working on **Automated Resume Builder with an Integrated Job Portal**
 
-- 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow,EDA,Streamlit**
+- 🌱 I’m currently learning **Deep Learning, NLP, and Time-Series Modeling**
+
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning, and AI-based Projects**
+
+- 💬 Ask me about **Python, pandas, scikit-learn, TensorFlow,EDA, Streamlit**
 
 - 📫 How to reach me **sandraem849@gmail.com**
+
+- ⚡ Fun fact **I love transforming raw data into useful insights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

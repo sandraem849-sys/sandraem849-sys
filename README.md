@@ -2,7 +2,7 @@
 <h3 align="center"><h3 align="center">🎓 Data Science Enthusiast | AI & ML Learner | Turning Data into Insights</h3> 
 <p align="center"> I have completed a Data Science program specialized in Artificial Intelligence and Machine Learning. I am passionate about data analysis, machine learning, and building smart solutions that solve real-world problems. </p></h3>
 
-- 🔭 I’m currently working on **Automated Resume Builder with an Integrated Job Portal**
+- 🔭 I’m currently working on **AI Sales Forcasting and Product Demend Analysis**
 
 - 🌱 I’m currently learning **Deep Learning, NLP, and Time-Series Modeling**
 

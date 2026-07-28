@@ -13,7 +13,7 @@
 <table width="100%">
 <tr>
 <td width="180" align="center" valign="top">
-<img src="https://avatars.githubusercontent.com/u/257718178?v=4" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Sandra E.M"/>
+<img src="https://raw.githubusercontent.com/sandraem849-sys/sandraem849-sys/main/profile.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Sandra E.M"/>
 </td>
 <td valign="middle">
 
@@ -148,6 +148,10 @@ A system for tracking and managing an organization's IT hardware, software licen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br/><br/>
+
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22Machine%20Learning%22%2C%20%22Deep%20Learning%22%2C%20%22SQL%20/%20Databases%22%2C%20%22Data%20Visualization%22%2C%20%22Web%20Development%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%22%2C%20%22data%22%3A%20%5B95%2C%2088%2C%2080%2C%2085%2C%2082%2C%2068%5D%2C%20%22backgroundColor%22%3A%20%22%2339D353%22%2C%20%22borderRadius%22%3A%206%7D%5D%7D%2C%20%22options%22%3A%20%7B%22indexAxis%22%3A%20%22y%22%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Skill%20Proficiency%22%2C%20%22color%22%3A%20%22%23FFFFFF%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2020%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22max%22%3A%20100%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23FFFFFF%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%2330363D%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23FFFFFF%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2014%7D%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%2330363D%22%7D%7D%7D%7D%7D&backgroundColor=%23161B22&width=700&height=380" width="80%"/>
 
 </div>
 

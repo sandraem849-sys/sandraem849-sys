@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra E.M</h1>
 <h3 align="center"><h3 align="center">🎓 Data Science Enthusiast | AI & ML Learner | Turning Data into Insights</h3> <p align="center"> I have completed a Data Science program specialized in Artificial Intelligence and Machine Learning  using Python. I am passionate about data analysis, machine learning, and building smart solutions that solve real-world problems. </p></h3>
 
-- 🔭 I’m currently working on **AI-Sales-Forcasting-Demend-Product**
+- 🔭 I’m currently working on **AI-Sales-Forecasting-Demand-Prediction**
 
 - 🌱 I’m currently learning **Deep Learning, NLP, and Time-Series Modeling,FastAPI,OCR etc...**
 

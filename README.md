@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sandraem849-sys/sandraem849-sys/main/ai-banner.png" width="100%" alt="AI Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1B4332,100:2EA043&height=120&text=AI%20%2F%20ML%20%7C%20DATA%20SCIENCE%20%7C%20INSIGHTS%20FROM%20DATA&fontColor=39D353&fontSize=24&fontAlignY=55&desc=Turning%20raw%20data%20into%20decisions%20that%20get%20used&descAlignY=80&descSize=13&descColor=8B949E" width="100%" alt="AI Banner"/>
 
 </div>
 

@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:2EA043&height=180&section=header&text=Sandra%20E.M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%26%20ML%20%7C%20Turning%20Data%20into%20Insights&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/sandraem849-sys">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Building+ML+models+that+turn+data+into+decisions;Currently+forecasting+demand+with+Python+%26+TensorFlow;Always+learning%3A+NLP+%2C+Time-Series+%2C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sandra+E.M+%7C+Data+Scientist+%7C+AI%2FML+Engineer;Building+ML+models+that+turn+data+into+decisions;Currently+forecasting+demand+with+Python+%26+TensorFlow;Always+learning%3A+Gemini+AI%2C+MediaPipe%2C+Computer+Vision" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@ I build machine learning solutions — from demand forecasting models to AI assi
 ## 📌 What I'm doing right now
 
 - 🔭 **Working on:** AI Sales Forecasting & Demand Prediction
-- 🌱 **Learning:** Deep Learning, NLP, Time-Series Modeling, FastAPI, OCR
+- 🌱 **Learning:** Deep Learning, NLP, Time-Series Modeling, FastAPI, OCR, Gemini AI, MediaPipe, Computer Vision
 - 👯 **Open to collaborate on:** Data Science, Machine Learning & AI-based projects
 - 💬 **Ask me about:** Python, pandas, scikit-learn, TensorFlow, EDA, Streamlit
 - ⚡ **Fun fact:** I love transforming raw data into useful insights

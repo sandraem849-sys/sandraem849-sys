@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:2EA043&height=180&section=header&text=Sandra%20E.M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20and%20ML%20%7C%20Turning%20Data%20into%20Insights&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:2EA043&height=180&section=header&text=Sandra%20E.M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/sandraem849-sys">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sandra+E.M+%7C+Data+Scientist+%7C+AI%2FML+Engineer;Building+ML+models+that+turn+data+into+decisions;Currently+forecasting+demand+with+Python+and+TensorFlow;Always+learning%3A+Gemini+AI%2C+MediaPipe%2C+Computer+Vision" alt="Typing SVG" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1B4332,100:2EA043&height=120&text=AI%20%2F%20ML%20%7C%20DATA%20SCIENCE%20%7C%20INSIGHTS%20FROM%20DATA&fontColor=39D353&fontSize=24&fontAlignY=55&desc=Turning%20raw%20data%20into%20decisions%20that%20get%20used&descAlignY=80&descSize=13&descColor=8B949E" width="100%" alt="AI Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1B4332,100:2EA043&height=110&text=Turning%20Raw%20Data%20Into%20Decisions%20That%20Get%20Used&fontColor=FFFFFF&fontSize=20&fontAlignY=60&desc=Forecasting%20%C2%B7%20Machine%20Learning%20%C2%B7%20Applied%20AI&descAlignY=82&descSize=12&descColor=8B949E" width="100%" alt="AI Banner"/>
 
 </div>
 
@@ -29,7 +25,7 @@
 <table width="100%">
 <tr>
 <td width="180" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/sandraem849-sys/sandraem849-sys/main/profile.png" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Sandra E.M"/>
+<img src="https://raw.githubusercontent.com/sandraem849-sys/sandraem849-sys/main/profile.png" width="150" height="150" style="border-radius:50%;object-fit:cover;border:3px solid #39D353;" alt="Sandra E.M"/>
 </td>
 <td valign="middle">
 
@@ -44,6 +40,10 @@ I build machine learning solutions — from demand forecasting models to AI assi
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA043,100:0D1117&height=2&width=800" width="60%"/>
+</div>
 
 <br/>
 
@@ -104,6 +104,10 @@ I build machine learning solutions — from demand forecasting models to AI assi
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA043,100:0D1117&height=2&width=800" width="60%"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -119,21 +123,23 @@ I build machine learning solutions — from demand forecasting models to AI assi
 <td width="50%" valign="top">
 
 **[AI Sales Forecasting & Demand Prediction](https://github.com/sandraem849-sys/AI-Sales-Forcasting-Demend-Product)**
+
 ML model that forecasts product sales and demand from historical data, to support inventory and stocking decisions.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Time Series](https://img.shields.io/badge/-Time--Series-2EA043?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Time_Series](https://img.shields.io/badge/Time_Series-2EA043?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 **[Automated Resume Builder + Job Portal](https://github.com/sandraem849-sys/Automated-Resume-Builder-with-an-Integrated-Job-Portal)**
+
 Web app that generates formatted resumes and connects candidates to a built-in job listing portal.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-2EA043?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2EA043?style=flat-square)
 
 </td>
 </tr>
@@ -141,25 +147,31 @@ Web app that generates formatted resumes and connects candidates to a built-in j
 <td width="50%" valign="top">
 
 **[NexaAI — Personal AI Assistant](https://github.com/sandraem849-sys/NexaAI-Personal-AI-Assistant)**
+
 A conversational AI assistant built in Python that handles natural-language queries and task automation.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-2EA043?style=flat-square)
-![AI Assistant](https://img.shields.io/badge/-AI_Assistant-2EA043?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2EA043?style=flat-square)
+![AI_Assistant](https://img.shields.io/badge/AI_Assistant-2EA043?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 **[IT Asset Management](https://github.com/sandraem849-sys/IT-Asset-Management)**
+
 A system for tracking and managing an organization's IT hardware, software licenses, and assignments.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CRUD](https://img.shields.io/badge/-CRUD-2EA043?style=flat-square)
-![Asset Management](https://img.shields.io/badge/-Asset_Management-2EA043?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-2EA043?style=flat-square)
+![Asset_Management](https://img.shields.io/badge/Asset_Management-2EA043?style=flat-square)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA043,100:0D1117&height=2&width=800" width="60%"/>
+</div>
 
 <br/>
 
@@ -204,6 +216,10 @@ A system for tracking and managing an organization's IT hardware, software licen
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandraem849-sys&theme=github-compact&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353" width="95%"/>
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA043,100:0D1117&height=2&width=800" width="60%"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -225,6 +241,8 @@ A system for tracking and managing an organization's IT hardware, software licen
 ![Section](https://img.shields.io/badge/🌐_CONNECT_WITH_ME-2EA043?style=for-the-badge&labelColor=161B22)
 
 </div>
+
+<br/>
 
 <div align="center">
 

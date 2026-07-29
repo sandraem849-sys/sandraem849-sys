@@ -13,7 +13,7 @@
 <br/><br/>
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-<b>Data Scientist &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Machine Learning Engineer &nbsp;•&nbsp; Data Analyst &nbsp;•&nbsp; Business Intelligence Enthusiast</b>
+<b>Data Scientist &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Machine Learning Engineer &nbsp;•&nbsp; Data Analyst &nbsp;</b>
 </marquee>
 
 </div>
@@ -69,49 +69,84 @@ I'm a Data Science graduate specializing in AI/ML, with hands-on experience buil
 
 **Languages**
 <br/><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36"/><br/><sub><b>C</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36"/><br/><sub><b>PHP</b></sub></td>
+</tr>
+</table>
+
+<br/>
 
 **Data Science & Machine Learning**
 <br/><br/>
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36"/><br/><sub><b>pandas</b></sub></td>
+<td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/><br/><sub><b>scikit-learn</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36"/><br/><sub><b>OpenCV</b></sub></td>
+<td align="center" width="90"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36"/><br/><sub><b>Seaborn</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="36" height="36"/><br/><sub><b>Power BI</b></sub></td>
+</tr>
+</table>
+
+<br/>
 
 **Web Development**
 <br/><br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center" width="90"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" height="36"/><br/><sub><b>Django</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36"/><br/><sub><b>FastAPI</b></sub></td>
+</tr>
+</table>
+
+<br/>
 
 **Databases & Tools**
 <br/><br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="36" height="36"/><br/><sub><b>Android</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+**AI & Emerging Tech**
+<br/><br/>
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-10B981?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-10B981?style=for-the-badge&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-10B981?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge&logoColor=white)
 
 </div>
 
 <br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,100:0D1117&height=3&width=1000" width="100%"/>
 

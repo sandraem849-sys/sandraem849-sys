@@ -13,7 +13,7 @@
 <br/><br/>
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-<b>Data Scientist &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Machine Learning Engineer &nbsp;•&nbsp; Data Analyst &nbsp;</b>
+<b>Data Scientist &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Deep Learning Engineer &nbsp;•&nbsp; Data Analyst &nbsp;</b>
 </marquee>
 
 </div>
